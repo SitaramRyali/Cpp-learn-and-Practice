@@ -1,12 +1,12 @@
 # Cpp-learn-and-Practice
 
-##Quote of the task: "Never Give Up"
+## Quote of the task: "Never Give Up"
 
 
 The Cpp learning pledge as on 12-Sep-2019.
 
 
-###Task Split up:
+### Task Split up:
 
 DO Learn some thing even the little Cpp oriented syntax.
 Push the file to Git repo.
